@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Far34n
+- 👀 I’m interested in Embedded system
+- 🌱 I’m currently learning c/c++ and web technology
